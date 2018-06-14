@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Relogio De Ponto</string>
+    <string name="gerenciar">Gerenciar Funcionários</string>
+    <string name="sobre">Sobre</string>
+    <string name="salvar">Salvar</string>
+    <string name="cadastro_de_funcionarios">Cadastro de Funcionários</string>
+    <string name="nome">Nome</string>
+    <string name="data_nascimento">Data de Nascimento</string>
+    <string name="telefone">Telefone</string>
+    <string name="limpar">Limpar</string>
+    <string name="excluir">Excluir</string>
+    <string name="msg_obrigatorio">O campo deve ser preenchido</string>
+    <string name="msg_cadastrado_com_sucesso">Funcionário adicionado com sucesso</string>
+    <string name="msg_atualizado_com_sucesso">Funcionário atualizado com sucesso</string>
+    <string name="msg_nenhum_funcionario_selecionado">Nenhum funcionário está selecionado</string>
+    <string name="msg_removido_com_sucesso">Funcionário removido com sucesso</string>
+    <string name="msg_deletar_funcionario">Excluir Funcionário</string>
+    <string name="msg_confirmacao">Você tem certeza que deseja excluir o funcionário?</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="estado">Ativo</string>
+    <string name="autor">Autor: Carlos Fernando dos Santos</string>
+    <string name="disciplina">Disciplina: Programação Móvel</string>
+    <string name="professor">Professor: Alexandre Rômolo Moreira Feitosa</string>
+    <string name="sair">Sair</string>
+    <string name="cor">Mudar cor</string>
+
+
+
+    <string-array name="cargos">
+        <item>Gerente</item>
+        <item>Estagiário</item>
+        <item>Contador</item>
+    </string-array>
+    <string name="title_activity_gerenciar_funcionarios">GerenciarFuncionariosActivity</string>
+
+</resources>

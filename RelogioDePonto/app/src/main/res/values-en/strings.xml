@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Clock Point</string>
+    <string name="gerenciar">Manage Employees</string>
+    <string name="sobre">About</string>
+    <string name="bater_ponto">Hit Point</string>
+    <string name="ver_horas">See Hours</string>
+    <string name="salvar">Save</string>
+    <string name="cadastro_de_funcionarios">Employee Registration</string>
+    <string name="nome">Name</string>
+    <string name="data_nascimento">Birthdate</string>
+    <string name="telefone">Cellphone</string>
+    <string name="limpar">Clear</string>
+    <string name="excluir">Delete</string>
+    <string name="msg_obrigatorio">The field must be completed</string>
+    <string name="msg_cadastrado_com_sucesso">Employee successfully added</string>
+    <string name="msg_atualizado_com_sucesso">Employee updated successfully</string>
+    <string name="msg_nenhum_funcionario_selecionado">No employee selected</string>
+    <string name="msg_removido_com_sucesso">Employee successfully removed</string>
+    <string name="msg_deletar_funcionario">Delete Employee</string>
+    <string name="msg_confirmacao">Are you sure you want to delete the employee?</string>
+    <string name="masculino">Male</string>
+    <string name="feminino">Female</string>
+    <string name="estado">Active</string>
+    <string name="autor">Author: Carlos Fernando dos Santos</string>
+    <string name="disciplina">Discipline: Mobile Programming</string>
+    <string name="professor">Teacher: Alexandre Rômolo Moreira Feitosa</string>
+    <string name="sair">Exit</string>
+    <string name="cor">Change color</string>
+
+    <string-array name="cargos">
+        <item>Manager</item>
+        <item>Trainee</item>
+        <item>Accountant</item>
+    </string-array>
+</resources>
